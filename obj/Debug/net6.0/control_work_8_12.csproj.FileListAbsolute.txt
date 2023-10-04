@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\bin\Debug\net6.0\control_work_8_12.exe
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\bin\Debug\net6.0\control_work_8_12.deps.json
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\bin\Debug\net6.0\control_work_8_12.runtimeconfig.json
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\bin\Debug\net6.0\control_work_8_12.dll
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\bin\Debug\net6.0\control_work_8_12.pdb
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\obj\Debug\net6.0\control_work_8_12.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\obj\Debug\net6.0\control_work_8_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\obj\Debug\net6.0\control_work_8_12.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\obj\Debug\net6.0\control_work_8_12.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\obj\Debug\net6.0\control_work_8_12.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\obj\Debug\net6.0\control_work_8_12.dll
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\obj\Debug\net6.0\refint\control_work_8_12.dll
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\obj\Debug\net6.0\control_work_8_12.pdb
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\obj\Debug\net6.0\control_work_8_12.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\Hello-Code\control_work_8_12\obj\Debug\net6.0\ref\control_work_8_12.dll
